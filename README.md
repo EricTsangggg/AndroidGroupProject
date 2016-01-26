@@ -1,2 +1,0 @@
-# AndroidGroupProject
-AndroidGroupProject
